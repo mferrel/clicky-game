@@ -1,10 +1,6 @@
-* {
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-
-html, body, #root {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-}
+.mainContainer {
+  padding: 0; 
+  background-color: rgba(0, 0, 0, 0.03);
+  min-height: 100vh;
+  padding-bottom: 100px;
+  }
