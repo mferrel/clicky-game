@@ -12,7 +12,6 @@
 
 .gameMessage p {
   font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
   font-weight: 500;
   background-color: black;
   color: white;
@@ -28,7 +27,6 @@
 }
 .gameScores p {
   font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
   font-weight: 500;
   background-color:#420f09;
   color: white;
