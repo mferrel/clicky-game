@@ -58,6 +58,7 @@ class MainGameContainer extends Component {
 					
 					<div className="row">
 					{this.state.friends.map(image => (
+						<div className= "col-sm-3">
 						<FriendTiles
 							key={image.id}
 							id={image.id}
@@ -65,7 +66,7 @@ class MainGameContainer extends Component {
 							clicked={image.clicked}
 							image={image.image}
 							handleClick={this.handleClick}
-							/>
+							/></div>
 					))}
 					</div>
 					
