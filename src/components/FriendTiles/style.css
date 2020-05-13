@@ -1,12 +1,12 @@
-.allCards {
+.tiles {
   padding: 10px;
   border: none;
   text-align: center;
 }
 
-.allCards img {
+.tiles img {
   padding: 12px;
-  border: 1px solid rgba(0, 0, 0, 0.25);
+  border: 1px solid;
   background-color: white;
   height: 200px;
   width: 200px;

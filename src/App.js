@@ -5,7 +5,7 @@ import "./index.css";
 
 
 const App = () => (
-  <div className="container-fluid mainContainer">
+  <div className="container-fluid mainCardContainer">
     <Jumbotron />
     <Wrapper /> 
   </div>
