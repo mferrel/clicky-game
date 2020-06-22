@@ -2,19 +2,19 @@
     {
     "id": 1,
     "name": "Eve",
-    "image": "friendtiles/eve.jpg",
+    "image": "/friendtiles/eve.jpg",
     "clicked": false
 },
 {
     "id": 2,
     "name": "Villanelle",
-    "image": "friendtiles/villanelle1.jpg",
+    "image": "/friendtiles/villanelle1.jpg",
     "clicked": false
 },
 {
     "id": 3,
     "name": "Carolyn",
-    "image": "friendtiles/carolyn.jpg",
+    "image": "/friendtiles/carolyn.jpg",
     "clicked": false
 },
 {
@@ -68,7 +68,7 @@
 {
     "id": 12,
     "name": "Villanelle 6",
-    "image": "",
+    "image": "/friendtiles/villanelle6.jpg",
     "clicked": false
 }
 ]
